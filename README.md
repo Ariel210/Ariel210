@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ariel 👋
+
+🔭 I’m currently working in Accenture Argentina as Data Engineer
 
 <!--
 **Ariel210/Ariel210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
