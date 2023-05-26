@@ -1,6 +1,6 @@
 ### Hi there, I'm Ariel Izurieta. I live at Mar Del Plata, Argentina👋
 
-🔭 I’m currently working in Accenture Argentina as Data Engineer
+🔭 I’m currently working in Accenture Argentina as Data Engineer <br>
 Now, i'm learning Python, Javascript languages programming
 
 <!--
