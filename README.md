@@ -3,9 +3,10 @@
 🔭 I’m currently working in Accenture Argentina as Data Engineer <br>
 Now, i'm learning Python, Javascript languages programming
 
+***   
+Visit my Linkedin: <br>
+[![Linkedin](https://todovector.com/vector/logos/redes-sociales/linkedin/6.png)](https://www.linkedin.com/in/arielizurieta/)
 ***
-Visit my Linkedin:
-[![Linkedin](https://cdn-icons-png.flaticon.com/256/61/61109.png)](https://www.linkedin.com/in/arielizurieta/)
 
 
 
