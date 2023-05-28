@@ -4,8 +4,7 @@
 Now, i'm learning Python, Javascript languages programming
 
 ***   
-Visit my Linkedin: <br>
-[![Linkedin](https://todovector.com/vector/logos/redes-sociales/linkedin/6.png)](https://www.linkedin.com/in/arielizurieta/)
+Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta)<br>
 ***
 
 
