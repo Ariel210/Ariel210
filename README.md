@@ -4,10 +4,16 @@
 Now, i'm learning Python, Javascript languages programming
 
 ***   
-Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta)<br>
+Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta/)<br>
 ***
+## Knowledges:
+* SQL
+* Python
 
-
+## Tools:
+* VSC(Visual Studio Code)
+* Git
+* GitHub
 
 <!--
 **Ariel210/Ariel210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
