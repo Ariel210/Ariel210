@@ -4,8 +4,8 @@
 Now, i'm learning Python, Javascript languages programming
 
 ***
-[![Linkedin](https://cdn.icon-icons.com/icons2/2845/PNG/512/linkedin_logo_icon_181286.png)](https://www.linkedin.com/in/arielizurieta/)
-Visit my Linkedin: [Linkedin](https://www.linkedin.com/in/arielizurieta/)
+Visit my Linkedin:
+[![Linkedin](https://cdn-icons-png.flaticon.com/256/61/61109.png)](https://www.linkedin.com/in/arielizurieta/)
 
 
 
