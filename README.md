@@ -3,6 +3,11 @@
 🔭 I’m currently working in Accenture Argentina as Data Engineer <br>
 Now, i'm learning Python, Javascript languages programming
 
+***
+Visit my linkedin: [Linkedin](https://www.linkedin.com/in/ariel-izurieta-4550b1138/)
+
+
+
 <!--
 **Ariel210/Ariel210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
