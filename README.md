@@ -4,7 +4,7 @@
 Now, i'm learning Python, Javascript languages programming
 
 ***
-Visit my linkedin: [Linkedin](https://www.linkedin.com/in/ariel-izurieta-4550b1138/)
+Visit my Linkedin: [Linkedin](https://www.linkedin.com/in/arielizurieta/)
 
 
 
