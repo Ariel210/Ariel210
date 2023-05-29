@@ -8,14 +8,20 @@ Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta/)<br>
 ***
 ## Knowledges:
 * SQL
-* Python
+* Python <img id="logo_python" src="images/logo-python.png">
 
 ## Tools:
 * VSC (Visual Studio Code) <img src="images/logo-vsc.png" width=85 height=35 align=center alt="logo-vsc">
 * Git <img src="images/logo-git.png" width=15 alt="logo-git">
 * GitHub
 
-<!--
-**Ariel210/Ariel210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+<style>
+    #logo_python{
+        width:8%;
+    }
+</style>
+
+
