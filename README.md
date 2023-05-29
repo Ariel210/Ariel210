@@ -11,7 +11,7 @@ Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta/)<br>
 * Python
 
 ## Tools:
-* VSC(Visual Studio Code)
+* VSC (Visual Studio Code) <img src="images/logo-vsc.png" width=85 height=35 align=center alt="logo-vsc">
 * Git <img src="images/logo-git.png" width=15 alt="logo-git">
 * GitHub
 
