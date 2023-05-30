@@ -9,7 +9,7 @@ Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta/)<br>
 ***
 ## Knowledges:
 * SQL <img id="logo-sql" src="images/logo-sql.png" width=10% height=5%>
-* Python <img id="logo_python" src="images/logo-python.png" width=8%>
+* Python <img id="logo_python" src="images/logo-python.png" width=8% align=center>
 
 ## Tools:
 * VSC (Visual Studio Code) <img src="images/logo-vsc.png" width=85 height=35 align=center alt="logo-vsc">
