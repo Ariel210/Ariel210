@@ -1,12 +1,6 @@
 <body>
-    <h1>Ariel Martin Izurieta</h1>
+    <h1 style=font-family:italic>Ariel Martin Izurieta</h1>
 </body>
-<style>
-    h1{
-        font-family:italic;
-        text-align:center;
-    }
-</style>
 
 ***
 ***
