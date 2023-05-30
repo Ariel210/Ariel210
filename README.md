@@ -8,7 +8,7 @@ Now, i'm learning Python, Javascript languages programming
 Visit my Linkedin: [Linkedin!](https://www.linkedin.com/in/arielizurieta/)<br>
 ***
 ## Knowledges:
-* SQL
+* SQL <img id="logo-sql" src="images/logo-sql.png" width=10% height=5%>
 * Python <img id="logo_python" src="images/logo-python.png" width=8%>
 
 ## Tools:
