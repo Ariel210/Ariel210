@@ -1,4 +1,5 @@
 # *Ariel Izurieta*
+* Currently, i'm learning about Javascript programming language
 
 ***
 ***
