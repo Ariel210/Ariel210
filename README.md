@@ -1,5 +1,5 @@
 # *Ariel Izurieta* :smile:
-* I work in Accenture Argentina  as *Data Engineer* :computer:
+* I work at Accenture Argentina as *Data Engineer* :computer:
 * Currently, i'm learning about Javascript programming language :computer:
 
 
@@ -13,6 +13,8 @@
 * Git ![]()<img src="./images/logo-git.png"  width="15" height=16>
 * GitHub
 * Visual Studio Code (VSC)
+* GCP 
+* Azure
 ***
 
 
