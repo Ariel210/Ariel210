@@ -1,6 +1,6 @@
-# *Ariel Izurieta*
-* I work in Accenture Argentina  as *Data Engineer*
-* Currently, i'm learning about Javascript programming language
+# *Ariel Izurieta* :smile:
+* I work in Accenture Argentina  as *Data Engineer* :computer:
+* Currently, i'm learning about Javascript programming language :computer:
 
 
 ***
