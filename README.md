@@ -1,4 +1,4 @@
-# *Ariel Izurieta* :smile:
+# :call_me_hand: *Ariel Izurieta* :call_me_hand:
 * I work at Accenture Argentina as *Data Engineer* :computer:
 * Currently, i'm learning about Javascript programming language :computer:
 
